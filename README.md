@@ -34,7 +34,8 @@ Platform: Microsoft Power BI Desktop
 Data Volume: 1,100 Clinical Patient Records
 Key Features: Power Query (Data Cleaning), DAX (Risk Measures), AI Key Influencers, and Decomposition Tree visuals.
 
-Project by:SheLeads Tech Circle( Group 26)
+Project by: SheLeads Tech Circle( Group 26)
 Author: Thokozile Edith Noi (Data Analyst)
+![Uploading Maternal Health Dashboard_A. HerHealth Overview.png…]()
 
 Women Techsters Fellowship 2026
